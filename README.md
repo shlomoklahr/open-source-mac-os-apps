@@ -637,7 +637,7 @@ You can see which language an app is written in. Currently there are following l
 
 ## Contributors
 
-Thanks to all the people who contribute:
+Thanks to all the people who contributed!
 
 <a href="https://github.com/serhii-londar/open-source-mac-os-apps/graphs/contributors"><img src="https://opencollective.com/open-source-mac-os-apps/contributors.svg?width=890&button=false" /></a>
 
