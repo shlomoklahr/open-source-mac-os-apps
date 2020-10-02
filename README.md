@@ -18,7 +18,7 @@ List of awesome open source applications for macOS. This list contains a lot of 
 
 ## Languages
 
-You can see in which language an app is written. Currently there are following languages:
+You can see which language an app is written in. Currently there are following languages:
 
 - ![c_icon] - C language.
 - ![cpp_icon] - C++ language.
